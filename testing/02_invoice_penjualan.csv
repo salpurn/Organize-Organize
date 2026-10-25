@@ -1,0 +1,9 @@
+no_invoice,nama_pelanggan,email,tanggal,produk,jumlah,harga_satuan,total
+INV-2026-001,PT Maju Jaya,finance@majujaya.co.id,2026-08-01,Laptop ASUS Vivobook,2,Rp 8.500.000,Rp 17.000.000
+INV-2026-002,CV Sumber Rejeki,admin@sumberrejeki.com,2026-08-03,Printer Epson L3210,3,Rp 2.350.000,Rp 7.050.000
+INV-2026-003,Toko Berkah Abadi,berkah.abadi@gmail.com,2026-08-05,Mouse Logitech M331,10,Rp 225.000,Rp 2.250.000
+INV-2026-004,PT Digital Nusantara,procurement@digitalnusantara.id,2026-08-10,Monitor LG 24 inch,5,Rp 1.899.000,Rp 9.495.000
+INV-2026-005,Universitas Airlangga,pengadaan@unair.ac.id,2026-08-12,Proyektor Epson EB-X51,2,Rp 6.750.000,Rp 13.500.000
+INV-2026-006,Klinik Sehat Sentosa,klinik.sentosa@yahoo.com,2026-08-15,Keyboard Rexus,4,Rp 350.000,Rp 1.400.000
+INV-2026-007,PT Karya Mandiri,karyamandiri@outlook.com,2026-08-18,SSD Samsung 1TB,6,Rp 1.450.000,Rp 8.700.000
+INV-2026-008,Kafe Kopi Senja,kopisenja@gmail.com,2026-08-21,Tablet Samsung Tab A9,1,Rp 2.999.000,Rp 2.999.000
